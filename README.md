@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Sunilrajj
 
-<!--
-**Sunilrajj/Sunilrajj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **DevOps Engineer** on a mission to automate all the things!
 
-Here are some ideas to get you started:
+- 🐍 Fluent in **Python**
+- ⚡ Orchestrating chaos with **Ansible**
+- 🦾 Speaking **Golang** like a pro
+- 🔧 Living and breathing **DevOps**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+I turn caffeine into pipelines and bugs into features (well, sometimes).  
+If you see me talking to servers, don’t worry—they talk back!
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python | Golang
+- **DevOps Tools:** Ansible | Docker | Kubernetes | CI/CD
+- **Cloud:** (Add your favorite cloud providers here!)
+
+---
+
+### 📈 Stats & Activity
+
+![Sunilrajj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunilrajj&show_icons=true&theme=radical)
+
+---
+
+### 📫 Get in Touch
+
+- [LinkedIn](www.linkedin.com/in/sunil-raj-253794104) <!-- Add your LinkedIn link here -->
+
+---
+
+<!-- Add any favorite projects or fun facts below! -->

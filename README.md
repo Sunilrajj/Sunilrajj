@@ -20,13 +20,7 @@ If you see me talking to servers, don’t worry—they talk back!
 
 - **Languages:** Python | Golang
 - **DevOps Tools:** Ansible | Docker | Kubernetes | CI/CD
-- **Cloud:** (Add your favorite cloud providers here!)
-
----
-
-### 📈 Stats & Activity
-
-![Sunilrajj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sunilrajj&show_icons=true&theme=radical)
+- **Cloud:** AWS
 
 ---
 

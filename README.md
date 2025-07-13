@@ -26,7 +26,7 @@ If you see me talking to servers, don’t worry—they talk back!
 
 ### 📫 Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/sunil-raj-253794104) <!-- Add your LinkedIn link here -->
+- [LinkedIn](https://www.linkedin.com/in/sunil-raj-253794104)
 
 ---
 
